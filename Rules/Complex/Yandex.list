@@ -1,0 +1,27 @@
+  # > Yandex
+host-suffix,yandex.com,Yandex
+host-suffix,yandex.ru,Yandex
+host-suffix,yandex.net,Yandex
+host-suffix,yastatic.net,Yandex
+host-suffix,yandex.st,Yandex
+host-suffix,webvisor.com,Yandex
+host-suffix,yadro.ru,Yandex
+host-suffix,rambler.ru,Yandex
+host-suffix,stats.mos.ru,Yandex
+host-suffix,adfox.ru,Yandex
+host-suffix,rutarget.ru,Yandex
+host-suffix,yoomoney.ru,Yandex
+host-suffix,kinopoisk.ru,Yandex
+host-suffix,yookassa.ru,Yandex
+host,dmg.digitaltarget.ru,Yandex
+host,ssp.adriver.ru,Yandex
+host,mc.admetrica.ru,Yandex
+host,yandex.ocsp-responder.com,Yandex
+host,yandex-news.clstorage.net,Yandex
+host,yandex-images.naydex.net,Yandex
+host,yandex-video.naydex.net,Yandex
+host,yandex-question.naydex.net,Yandex
+host,kinopoisk-ru.naydex.net,Yandex
+host,yandex-pogoda.clstorage.net,Yandex
+host-suffix,naydex.net,Yandex
+host-keyword,yandex,Yandex

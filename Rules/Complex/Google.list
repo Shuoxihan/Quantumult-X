@@ -1,0 +1,77 @@
+  # > 域名部分
+host-suffix,abc.xyz,Google
+host-suffix,android.com,Google
+host-suffix,androidify.com,Google
+host-suffix,dialogflow.com,Google
+host-suffix,autodraw.com,Google
+host-suffix,capitalg.com,Google
+host-suffix,certificate-transparency.org,Google
+host-suffix,chrome.com,Google
+host-suffix,chromeexperiments.com,Google
+host-suffix,chromestatus.com,Google
+host-suffix,chromium.org,Google
+host-suffix,creativelab5.com,Google
+host-suffix,debug.com,Google
+host-suffix,deepmind.com,Google
+host-suffix,firebaseio.com,Google
+host-suffix,getmdl.io,Google
+host-suffix,ggpht.com,Google
+host-suffix,gmail.com,Google
+host-suffix,gmodules.com,Google
+host-suffix,godoc.org,Google
+host-suffix,golang.org,Google
+host-suffix,gstatic.com,Google
+host-suffix,gv.com,Google
+host-suffix,gwtproject.org,Google
+host-suffix,itasoftware.com,Google
+host-suffix,madewithcode.com,Google
+host-suffix,material.io,Google
+host-suffix,polymer-project.org,Google
+host-suffix,admin.recaptcha.net,Google
+host-suffix,recaptcha.net,Google
+host-suffix,shattered.io,Google
+host-suffix,synergyse.com,Google
+host-suffix,telephony.goog,Google
+host-suffix,tensorflow.org,Google
+host-suffix,tfhub.dev,Google
+host-suffix,tiltbrush.com,Google
+host-suffix,waveprotocol.org,Google
+host-suffix,waymo.com,Google
+host-suffix,webmproject.org,Google
+host-suffix,webrtc.org,Google
+host-suffix,whatbrowser.org,Google
+host-suffix,widevine.com,Google
+host-suffix,x.company,Google
+host-suffix,youtu.be,Google
+host-suffix,yt.be,Google
+host-suffix,ytimg.com,Google
+host-suffix,googleapis.com,Google
+host,scholar.google.com,Google
+host,safebrowsing.googleapis.com,Google
+  # > YouTube
+host-suffix,googlevideo.com,Google
+host-suffix,youtube.com,Google
+host,youtubei.googleapis.com,Google
+  # > Google 翻译
+host,translate.googleapis.com,Google
+
+  # > (DNS Cache Pollution Protection)
+host-suffix,appspot.com,Google
+host-suffix,blogger.com,Google
+host-suffix,getoutline.org,Google
+host-suffix,gvt0.com,Google
+host-suffix,gvt1.com,Google
+host-suffix,gvt3.com,Google
+host-suffix,xn--ngstr-lra8j.com,Google
+  # > IP段 代理
+ip-cidr,173.194.0.0/16,Google
+ip-cidr,74.125.0.0/16,Google
+  # > 域名关键字匹配
+host-keyword,gmail,Google
+host-keyword,gstatic,Google
+host-keyword,google,Google
+host-keyword,blogspot,Google
+  # > 国内部分
+host-suffix,dl.google.com,DIRECT
+host-suffix,google.cn,DIRECT
+host-suffix,mtalk.google.com,DIRECT
