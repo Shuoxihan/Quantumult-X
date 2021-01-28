@@ -1,0 +1,12 @@
+# > Spotify
+user-agent,Spotify*,Spotify
+host-suffix,-spotify-com
+host-suffix,pscdn.co,Spotify
+host-suffix,scdn.co,Spotify
+host-suffix,spotify.com,Spotify
+host-suffix,spoti.fi,Spotify
+host-suffix,spotify.com,Spotify
+host-suffix,spotifycdn.net,Spotify
+host-suffix,spotifycdn.com,Spotify
+ip-cidr,35.186.224.47/32,Spotify
+

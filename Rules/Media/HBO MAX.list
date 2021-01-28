@@ -1,0 +1,19 @@
+# HBO MAX
+user-agent,HBO%20NOW*,HBO MAX
+user-agent,HBOMAX*,HBO MAX
+host,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,HBO MAX
+host,bcbolthboa-a.akamaihd.net,HBO MAX
+host,cf-images.ap-southeast-1.prod.boltdns.net,HBO MAX
+host,dai3fd1oh325y.cloudfront.net,HBO MAX
+host,s3-ap-southeast-1.amazonaws.com,HBO MAX
+host,players.brightcove.net,HBO MAX
+host-suffix,bcbolthboa-a.akamaihd.net,HBO MAX
+host-suffix,cf-images.ap-southeast-1.prod.boltdns.net,HBO MAX
+host-suffix,execute-api.ap-southeast-1.amazonaws.com,HBO MAX
+host-suffix,execute-api.us-east-1.amazonaws.com,HBO MAX
+host-suffix,hbo.com,HBO MAX
+host-suffix,hbogo.com,HBO MAX
+host-suffix,hbomax.com,HBO MAX
+host-suffix,hbonow.com,HBO MAX
+host-suffix,manifest.prod.boltdns.net,HBO MAX
+host-suffix,s3-ap-southeast-1.amazonaws.com,HBO MAX

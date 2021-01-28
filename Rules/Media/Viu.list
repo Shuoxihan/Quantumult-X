@@ -1,0 +1,12 @@
+  # > Viu & ViuTV
+user-agent,Viu*,ViuTV
+user-agent,ViuTV*,ViuTV
+host-suffix,viu.com,Viu
+host-suffix,viu.tv,Viu
+host-suffix,viu.now.com,Viu
+host,api.viu.now.com,Viu
+host,um.viuapi.io,Viu
+host,viu-static.akamaized.net,Viu
+host,d1k2us671qcoau.cloudfront.net,Viu
+host,d2anahhhmp1ffz.cloudfront.net,Viu
+host,dfp6rglgjqszk.cloudfront.net,Viu
