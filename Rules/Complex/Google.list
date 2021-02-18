@@ -1,4 +1,11 @@
  # > DOMIAN 
+user-agent,*youtube*,Google
+user-agent,YouTube*,Google
+user-agent,com.google.ios.youtube*,Google
+user-agent,*YouTubeMusic*,Google
+user-agent,*com.google.ios.youtubemusic*,Google
+user-agent,YouTubeMusic*,Google
+user-agent,com.google.ios.youtubemusic*,Google
 host-suffix,265.com,Google
 host-suffix,abc.xyz,Google
 host-suffix,android.com,Google  
@@ -37,18 +44,20 @@ host-suffix,waymo.com,Google
 host-suffix,whatbrowser.org,Google
 host-suffix,widevine.com,Google
 host-suffix,x.company,Google
-host-suffix,youtu.be,Google
-host-suffix,yt.be,Google
-host-suffix,ytimg.com,Google
 host-suffix,googleapis.com,Google
 host-suffix,googleblog.com,Google
 host,scholar.google.com,Google
 host-suffix,madewithcode.com,Google
- #host,safebrowsing.googleapis.com,Google
+
   # > YouTube
-host-suffix,googlevideo.com,Google
-host-suffix,youtube.com,Google
 host,youtubei.googleapis.com,Google
+host-suffix,googlevideo.com,Google
+host,yt3.ggpht.com,Google
+host-suffix,youtu.be,Google
+host-suffix,yt.be,Google
+host-suffix,ytimg.com,Google
+host-suffix,youtube.com,Google
+
   # > Google 翻译
 host,translate.googleapis.com,DIRECT
 
