@@ -102,11 +102,12 @@ host,ocsp.pki.goog,Google
 host,crl.pki.goog,Google
 host,redirector.c.bigcache.googleapis.com,Google
 host,redirector.gvt1.com,Google
-host,safebrowsing-cache.google.com,Google
 host-suffix,dl.google.com,Google
 host-suffix,dl.l.google.com,Google
 host-suffix,ssl.gstatic.com,Google
 host-suffix,tools.google.com,Google
 host-suffix,tools.l.google.com,Google
 host-suffix,update.googleapis.com,Google
+
+host,safebrowsing-cache.google.com,DIRECT
 host,safebrowsing.googleapis.com,DIRECT
