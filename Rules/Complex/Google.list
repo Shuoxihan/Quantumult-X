@@ -1,4 +1,4 @@
- # > DOMIAN 
+ # > Google
 user-agent,*youtube*,Google
 user-agent,YouTube*,Google
 user-agent,com.google.ios.youtube*,Google
