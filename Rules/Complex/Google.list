@@ -6,6 +6,7 @@ user-agent,*YouTubeMusic*,Google
 user-agent,*com.google.ios.youtubemusic*,Google
 user-agent,YouTubeMusic*,Google
 user-agent,com.google.ios.youtubemusic*,Google
+host-suffix,ampproject.org,Google
 host-suffix,265.com,Google
 host-suffix,abc.xyz,Google
 host-suffix,android.com,Google  
