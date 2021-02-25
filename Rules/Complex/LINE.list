@@ -40,7 +40,6 @@ ip-cidr,203.104.135.0/24,LINE,no-resolve
 ip-cidr,203.104.136.0/24,LINE,no-resolve
 ip-cidr,203.104.137.0/24,LINE,no-resolve
 ip-cidr,203.104.138.0/24,LINE,no-resolve
-ip-cidr,203.104.138.138,LINE,no-resolve
 ip-cidr,203.104.139.0/24,LINE,no-resolve
 ip-cidr,203.104.140.0/24,LINE,no-resolve
 ip-cidr,203.104.141.0/24,LINE,no-resolve
