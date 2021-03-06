@@ -1,11 +1,4 @@
  # > Google
-user-agent,*youtube*,Google
-user-agent,YouTube*,Google
-user-agent,com.google.ios.youtube*,Google
-user-agent,*YouTubeMusic*,Google
-user-agent,*com.google.ios.youtubemusic*,Google
-user-agent,YouTubeMusic*,Google
-user-agent,com.google.ios.youtubemusic*,Google
 host-suffix,ampproject.org,Google
 host-suffix,265.com,Google
 host-suffix,abc.xyz,Google
@@ -49,15 +42,10 @@ host-suffix,googleapis.com,Google
 host-suffix,googleblog.com,Google
 host,scholar.google.com,Google
 host-suffix,madewithcode.com,Google
-
-  # > YouTube
-host,youtubei.googleapis.com,Google
-host-suffix,googlevideo.com,Google
-host,yt3.ggpht.com,Google
-host-suffix,youtu.be,Google
-host-suffix,yt.be,Google
-host-suffix,ytimg.com,Google
-host-suffix,youtube.com,Google
+host-suffix,docs.google.com
+host-suffix,drive.google.com
+host-suffix,googledrive.com
+host,lens.l.google.com 
 
   # > Google 翻译
 host,translate.googleapis.com,DIRECT
@@ -95,7 +83,7 @@ host-keyword,gmail,Google
 host-keyword,gstatic,Google
 host-keyword,google,Google
 host-keyword,blogspot,Google
-
+host-keyword,www.google.
   # > Other
 host,fonts.googleapis.com,Google
 host,fonts.gstatic.com,Google
