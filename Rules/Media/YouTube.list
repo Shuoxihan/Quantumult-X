@@ -1,0 +1,10 @@
+  # > YouTube
+user-agent,com.google.ios.youtube*,YouTube
+user-agent,YouTube*,YouTube
+host,youtubei.googleapis.com,YouTube
+host-suffix,googlevideo.com,YouTube
+host-suffix,youtu.be,YouTube
+host-suffix,yt.be,YouTube
+host-suffix,ytimg.com,YouTube
+host-suffix,youtube.com,YouTube
+host,yt3.ggpht.com,YouTube
