@@ -42,10 +42,10 @@ host-suffix,googleapis.com,Google
 host-suffix,googleblog.com,Google
 host,scholar.google.com,Google
 host-suffix,madewithcode.com,Google
-host-suffix,docs.google.com
-host-suffix,drive.google.com
-host-suffix,googledrive.com
-host,lens.l.google.com 
+host-suffix,docs.google.com,Google
+host-suffix,drive.google.com,Google
+host-suffix,googledrive.com,Google
+host,lens.l.google.com,Google 
 
   # > Google 翻译
 host,translate.googleapis.com,DIRECT
@@ -83,7 +83,7 @@ host-keyword,gmail,Google
 host-keyword,gstatic,Google
 host-keyword,google,Google
 host-keyword,blogspot,Google
-host-keyword,www.google.
+host-keyword,www.google.,Google 
   # > Other
 host,fonts.googleapis.com,Google
 host,fonts.gstatic.com,Google
