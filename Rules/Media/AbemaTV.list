@@ -9,6 +9,6 @@ host,ds-linear-abematv.akamaized.net,AbemaTV
 host,ds-vod-abematv.akamaized.net,AbemaTV
 host,linear-abematv.akamaized.net,AbemaTV
 host,abm.hayabusa.media,AbemaTV
+host,abema.adx.promo,AbemaTV
 host-keyword,abematv.akamaized.net,AbemaTV
 host-keyword,abematv,AbemaTV
-host,abema.adx.promo,reject
