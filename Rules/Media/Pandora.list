@@ -1,3 +1,4 @@
 # > Pandora
-user-agent,Pandora*
-host-suffix,pandora.com
+user-agent,Pandora*,Pandora
+host-suffix,p-cdn.us,Pandora
+host-suffix,pandora.com,Pandora
