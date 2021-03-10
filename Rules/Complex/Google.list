@@ -155,5 +155,3 @@ ip-cidr,172.253.122.188/32,Google,no-resolve
 ip-cidr,173.194.175.188/32,Google,no-resolve
 ip-cidr,173.194.218.188/32,Google,no-resolve
 ip-cidr,209.85.233.188/32,Google,no-resolve
-host,safebrowsing-cache.google.com,DIRECT
-host,safebrowsing.googleapis.com,DIRECT
