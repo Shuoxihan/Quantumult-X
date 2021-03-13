@@ -1,4 +1,8 @@
 # > KKBOX
 host-suffix,kfs.io,KKBOX
+host-suffix,kk.stream,KKBOX
 host-suffix,kkbox.com,KKBOX
 host-suffix,kkbox.com.tw,KKBOX
+host-suffix,kktix.com,KKBOX
+host-suffix,kktv.com.tw,KKBOX
+host-suffix,kktv.me,KKBOX
