@@ -2,7 +2,6 @@
 Collect and organize some Quantumult X diversion rules. Most of them are collected on the Internet, and some are written by myself.
 
 
-
 ## Special Thanks
 [@sve1r](https://github.com/sve1r)  
 [@ConnersHua](https://github.com/ConnersHua)  
