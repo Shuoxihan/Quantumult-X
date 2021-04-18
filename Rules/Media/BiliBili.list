@@ -53,6 +53,8 @@ ip-cidr,120.92.108.182/32,BiliBili
 ip-cidr,120.92.113.99/32,BiliBili
 ip-cidr,120.92.153.217/32,BiliBili
 ip-cidr,128.1.62.200/31,BiliBili
+ip-cidr,128.1.62.200/32,BiliBili
+ip-cidr,128.1.62.201/32,BiliBili
 ip-cidr,134.175.207.130/32,BiliBili
 ip-cidr,150.116.92.250/32,BiliBili
 ip-cidr,164.52.76.18/32,BiliBili
