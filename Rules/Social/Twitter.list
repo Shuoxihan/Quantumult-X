@@ -1,5 +1,5 @@
 # > Twitter
-host-suffix,ads-twitter.com,Twitter
+host-suffix,ads-twitter.com,REJECT
 host-suffix,periscope.tv,Twitter
 host-suffix,pscp.tv,Twitter
 host-suffix,t.co,Twitter
