@@ -45,7 +45,6 @@ host-suffix,origin-apple.com.akadns.net,Apple
 host-suffix,push-apple.com.akadns.net,Apple
 host-suffix,prod-support.apple-support.akadns.net,Apple
 # >> Other Service
-host,api.smoot.apple.cn,Apple
 # apple cidr
 ip-cidr,139.178.128.0/18,Apple
 ip-cidr,144.178.0.0/19,Apple
@@ -74,7 +73,6 @@ host-suffix,radio-services.itunes.apple.com,Proxy
 # > Apple Store
 host,iosapps.itunes.apple.com,Apple
 host,osxapps.itunes.apple.com,Apple
-host-suffix,mzstatic.com,Apple
 host-suffix,appsto.re,Proxy
 # > Apple Resources Server
 host,testflight.apple.com,Proxy
@@ -130,7 +128,6 @@ host-suffix,icloudsecure.net,Apple
 host-suffix,icloudsetup.com,Apple
 host-suffix,icloud-sandbox.com,Apple
 host-suffix,ios-icloud.com,Apple
-host-suffix,me.com,Apple
 host-suffix,myicloud.net,Apple
 host-suffix,mylcloud.net,Apple
 host-suffix,wwwicloud.com,Apple
@@ -160,9 +157,7 @@ host,developer.apple.com,Apple
 host,itunes.apple.com,Apple
 host,lookup-api.apple.com,Apple
 host,sandbox.itunes.apple.com,Apple
-host-suffix,apple-dns.net,Apple
 host-suffix,apps.apple.com,Apple
-host-suffix,digicert.com,Apple
 host-suffix,itunes-apple.com.akadns.net,Apple
 # 關鍵字匹配
 host-keyword,apple.com.akadns.net,Apple
