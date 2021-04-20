@@ -2,6 +2,10 @@
 user-agent,*youtube*,YouTube
 user-agent,YouTube*,YouTube
 user-agent,com.google.ios.youtube*,YouTube
+host,youtubei.googleapis.com,YouTube
+host,yt3.ggpht.com,YouTube
+host-suffix,youtube.com,YouTube
+host-suffix,youtube.tv,YouTube
 host-suffix,.youtube,YouTube
 host-suffix,ggpht.cn,YouTube
 host-suffix,ggpht.com,YouTube
