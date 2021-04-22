@@ -1,4 +1,5 @@
-# Quantumult-X
+## 項目全部遷移至Proxy Tools庫，有需要的請至Proxy Tools倉庫，該庫不久後將被清空！
+# Quantumult-X 
 Collect and organize some Quantumult X diversion rules. Most of them are collected on the Internet, and some are written by myself.
 
 
